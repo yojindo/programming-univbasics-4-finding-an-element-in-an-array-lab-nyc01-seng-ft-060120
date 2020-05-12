@@ -3,5 +3,8 @@ def find_element_index(array, value_to_find)
   
   while count < array.length do
     if array[count] == value_to_find
-      puts 
+      puts array.index
+    elsif
+      puts nil
+  end
 end
